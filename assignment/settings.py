@@ -25,7 +25,7 @@ SECRET_KEY = 'ld^a)%q80#7)h61v!2ou(a_dmp#t3hm6a5f_l98q)w2v^ie(rc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['desolate-falls-65170.herokuapp.com']
 
 
 # Application definition
